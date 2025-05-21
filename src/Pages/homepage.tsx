@@ -1,6 +1,9 @@
 import Header from '../Components/Header/index.tsx';
 import backgroundImage from '../assets/BackgroundHome.png';
 import backgroundImage2 from '../assets/background2part.png'
+import MockupHome from '../assets/MockupHome.png';
+import MockupAbout from '../assets/MockupAboutUs.png';
+
 import { motion } from "motion/react"
 export default function HomePage() {
     return (
@@ -27,7 +30,7 @@ export default function HomePage() {
                     initial={{ x: -200, opacity: 0 }}
                     animate={{ x: 0, opacity: 1 }}
                     transition={{ duration: 0.8, ease: "easeOut" }} className='w-[50%] flex items-center justify-center'>
-                    <img src="/src/assets/MockupHome.png" className="w-[70%] sm:w-[66%] md:w-[60%] lg:w-[50%] xl:w-[40%] 2xl:w-[35%] max-w-full h-auto"
+                    <img src={MockupHome} className="w-[70%] sm:w-[66%] md:w-[60%] lg:w-[50%] xl:w-[40%] 2xl:w-[35%] max-w-full h-auto"
                         alt="" />
                 </motion.div>
             </div >
@@ -100,7 +103,7 @@ export default function HomePage() {
                     viewport={{ amount: 0.3 }} className="min-h-screen text-white flex flex-col lg:flex-row items-center justify-center px-[5vw] py-[15 vh] font-[Montserrat]">
                     <div className="w-full lg:w-1/2 flex justify-center   lg:mb-0">
                         <img
-                            src="/src/assets/MockupAboutUs.png"
+                            src={MockupAbout}
                             alt="Perfil do atleta"
                             className=" w-[60vw] max-w-[300px] lg:max-w-[400px] shadow-lg"
                         />
