@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/fbWCbYCL/Black.png" alt="Logo da AtletaNet" width="250" />
+  <img src="https://i.postimg.cc/fbWCbYCL/Black.png" alt="Logo da AtletaNet" width="150" />
 </p>
 
 # AtletaNet 🏅
@@ -18,8 +18,8 @@
 ---
 
 ## 📸 Captura de Tela
-![Imagem]([URL_da_imagem](https://i.postimg.cc/KvdDtd5d/image.png))
----
+
+  <img src="https://i.postimg.cc/fbWCbYCL/Black.png](https://i.postimg.cc/KvdDtd5d/image.png" alt="Logo da AtletaNet" width="150" />
 
 ## 🛠️ Tecnologias Utilizadas
 
