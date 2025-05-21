@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/fbWCbYCL/Black.png](https://i.postimg.cc/KvdDtd5d/image.png" alt="Logo da AtletaNet" width="150" />
+  <img src="https://i.postimg.cc/KvdDtd5d/image.png" alt="Logo da AtletaNet" width="150" />
 </p>
 
 # AtletaNet 🏅
