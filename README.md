@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/KvdDtd5d/image.png" alt="Logo da AtletaNet" width="650" />
 </p>
 
-# AtletaNet 🏅
+# Eleven10 🏅
 
 **A rede social feita para conectar atletas, compartilhar conquistas e inspirar a comunidade esportiva.**
 
